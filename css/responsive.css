@@ -1,0 +1,18 @@
+@media only screen and (max-width: 767px){
+	
+	.section1 h2{
+		color: #fff
+	}
+
+	.mobile{
+		display: none;
+	}
+}
+
+/*for mobile view*/
+@media only screen and (max-width: 479px){
+	.section1 {
+		min-height: 325px;
+	}
+	
+}
